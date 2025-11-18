@@ -2,7 +2,7 @@
 
 GamepadPtr myGamepad = nullptr;
 
-// YOUR motor pins
+// motor pins
 const int LEFT_IN1  = 16;
 const int LEFT_IN2  = 17;
 const int RIGHT_IN1 = 18;
